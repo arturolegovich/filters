@@ -5,7 +5,7 @@ Plugin that adds a new tab to the settings section to create client-side e-mail 
 
 @version 2.2.1
 @author Roberto Zarrelli <zarrelli@unimol.it>
-@developer Artur Petrov <artur@phpchain.ru>
+@developer Artur Petrov <github@phpchain.ru>
 
 Installation
 ----------------------------------------
@@ -116,8 +116,8 @@ History
 * 2.1.9:
   - Added check for additional headers from config.inc.php ($config['spam_headers']=array()).
 * 2.2.0:
-  - Fixed error "filters have stopped working after an update from version 2.1.7 to 2.1.9" (https://github.com/6ec123321/filters/issues/46);
+  - Fixed error "filters have stopped working after an update from version 2.1.7 to 2.1.9";
   - Fixed error "Folder name with single quotation marks not filtered".
 * 2.2.1:
-  - Fix design for elastic skin - thanks to nicolas-joubert (https://github.com/6ec123321/filters/pull/53).
+  - Fix design for elastic skin - thanks to nicolas-joubert.
   
